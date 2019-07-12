@@ -1,0 +1,2 @@
+Test the function of Git
+Learning Git 
